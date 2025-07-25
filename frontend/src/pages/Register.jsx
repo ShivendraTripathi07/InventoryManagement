@@ -79,12 +79,6 @@ const Register = () => {
           Register
         </button>
       </div>
-      <p className="mt-4 text-center">
-        Already have an account?{" "}
-        <a href="/login" className="text-blue-500 hover:underline">
-          Login
-        </a>
-      </p>
     </div>
   );
 };
