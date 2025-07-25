@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:8000"; // Ensure no trailing slash
+const BASE_URL = "https://inventorymanagement-uxhb.onrender.com"; 
 
 export const API = {
   AUTH: {
