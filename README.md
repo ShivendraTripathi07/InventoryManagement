@@ -4,7 +4,7 @@
 
 The **Inventory Management System** is a full-stack application designed to help businesses efficiently manage and monitor their inventory. It provides features for adding, updating, tracking stock levels, and gaining insights through analytics. Ideal for small to medium-sized enterprises, the system ensures seamless operations with a secure backend and a responsive, AI-enhanced frontend.
 
-🔗 **Live Demo**: [https://warm-scone-0d1e40.netlify.app/](https://warm-scone-0d1e40.netlify.app/)
+🔗 **Live Demo**: [https://inventorymanagement-2.onrender.com/](https://inventorymanagement-2.onrender.com/)
 
 ---
 
